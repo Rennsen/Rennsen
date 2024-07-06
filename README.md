@@ -16,14 +16,13 @@
 
 💬 Ask me about **Unity, C++, CSharp... or anything [here](https://github.com/Rennsen/Rennsen/issues)**
 
+📫 How to reach me **nt_ait_ahmed@esi.dz**
+
 ⚡ Fun fact **Radahn, promised consort is weak to scarlet rot and frostbite**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:nr_derradji@esi.dz">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://www.linkedin.com/in/derradji-rayan-3165312aa/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rayan Derradji" height="30" width="40" />
   </a>
