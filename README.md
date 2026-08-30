@@ -26,8 +26,8 @@
   <a href="https://www.linkedin.com/in/derradji-rayan-3165312aa/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rayan Derradji" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/renpaisen" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="renpaisen" height="30" width="40" />
+  <a href="https://instagram.com/rennsen_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rennsen_" height="30" width="40" />
   </a>
 <a href="https://discord.gg/.renpaisen" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".renpaisen" height="30" width="40" />
