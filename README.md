@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rayan+Derradji!;" />
 </h1>
 
-<h3 align="center">A passionate CS student from Algeria, aspiring to become a software & game developer </h3>
+<h3 align="center">A passionate CS student from Algeria, aspiring to become a game developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **an indie game**
+🔭 I’m currently working on **an indie game**
  
- 🌱 I’m currently learning **cryptography**
+🌱 I’m currently learning **chaos theory**
 
-💬 Ask me about **Unity, C++, CSharp... or anything [here](https://github.com/Rennsen/Rennsen/issues)**
+💬 Ask me about **Game dev, art or anything [here](https://github.com/Rennsen/Rennsen/issues)**
 
 📫 How to reach me **nr_derradji@esi.dz**
 
